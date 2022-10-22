@@ -1,7 +1,6 @@
 # Higgs_boson_ml
 ATLAS dataset
 
-Presentation link : https://drive.google.com/file/d/1i57m5wKzp8PUn3rYhRm0DsGr6tTmXdHl/view?usp=sharing
 
 Link to code:
 [GitHub](https://github.com/Iam-007Swarna/Higgs_boson_ml/blob/main/higgs-bosson-ml.ipynb)  [Kaggle](https://www.kaggle.com/code/swarnava007/higgs-bosson-ml)
